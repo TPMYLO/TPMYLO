@@ -1,16 +1,22 @@
-### Hi there 👋
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello, this is about me 💫</h1></summary>
+  </ul>
+</div>
 
-<!--
-**TPMYLO/TPMYLO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">I love programming, but I'm even more passionate about gaming xD</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img unselectable="on" src="https://streak-stats.demolab.com/?user=TPMYLO&theme=holi-theme&hide_border=true&background=0D1117&mode=weekly"/><br>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<p align="center">
+  <a href="https://myloproject.com">
+    <img src="https://skillicons.dev/icons?i=php,laravel,jquery,git,bootstrap,css,github,html,js,mysql,postgres,nextjs,typescript,nodejs,postman,react,python,tailwind,aws,azure&perline=14" />
+  </a>
+</p>
